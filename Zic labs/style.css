@@ -1,0 +1,366 @@
+body{
+    background-image:url("2041.jpg") ;
+    background-size: repeat;
+}
+
+header{
+    height: 20px;
+    width: 100%;
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+footer{
+    height: 20px;
+    width: 100%;
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+#container{
+    display: inline-flex;
+    text-align: center;
+}
+
+#c1{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z8.jpeg");
+    background-size: cover;
+}
+#c2{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z10.jpeg");
+    background-size: cover;
+}
+
+#c3{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z19.jpeg");
+    background-size: cover;
+
+}
+#c4{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z1.jpeg");
+    background-size: cover;
+
+}
+#c5{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    background-image: url("z14.jpeg");
+    background-size: cover;
+    margin-bottom: 35px;
+   
+
+}
+#c6{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    background-image: url("z13.jpeg");
+    background-size: cover;
+    margin-bottom: 35px;
+   
+
+}
+#c7{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    background-image: url("z7.jpeg");
+    background-size: cover;
+    margin-bottom: 35px;
+
+}
+#c8{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    background-image: url("z12.jpeg");
+    background-size: cover;
+    margin-bottom: 35px;
+}
+#c9{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    background-image: url("z11.jpeg");
+    background-size: cover;
+    margin-bottom: 35px;
+}
+#c10{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 40px;
+    background-image: url("z17.jpeg");
+    background-size: cover;
+  
+}
+
+#c12{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z6.jpeg");
+    background-size: cover;
+}
+#c13{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z9.jpeg");
+    background-size: cover;
+
+}
+#contant{
+    display: inline-flex;
+   
+    flex-direction: column;
+    justify-self: end;
+    text-align: center;
+}
+
+#contain{
+    display: inline-flex;
+    flex-direction: row;
+    text-align: center;
+   
+}
+#c14{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-right: 35px;
+    background-image: url("z18.jpeg");
+    background-size: cover;
+   
+
+}
+#c15{
+    height: 150px;
+    width: 150px;
+    color:red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z2.jpeg");
+    background-size: cover;
+
+}
+#c16{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z15.jpeg");
+    background-size: cover;
+
+}
+#c17{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z16.jpeg");
+    background-size: cover;
+
+}
+#c18{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z3.jpeg");
+    background-size: cover;
+    
+
+}
+#c19{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z5.jpeg");
+    background-size: cover;
+
+}
+#c20{
+    height: 150px;
+    width: 150px;
+    color: red;
+    background-color: blanchedalmond;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin-right: 35px;
+    background-image: url("z4.jpeg");
+    background-size: cover;
+
+}
+
+
+#navbar{
+    height: 20px;
+    width: 100%;
+    background-color: darkblue;
+    color: orange;
+}
+button{
+    color: black;
+    background-color: aqua;
+}
+a{
+    margin-right: 175px;
+    font-style: italic;
+}
+#id1{
+    margin-right: 5px;
+}
+#c1:hover{
+    transform: scale(0.75);
+}
+#c2:hover{
+    transform: scale(0.75);
+}
+#c3:hover{
+    transform: scale(0.75);
+}
+#c4:hover{
+    transform: scale(0.75);
+}
+#c5:hover{
+    transform: scale(0.75);
+}
+#c6:hover{
+    transform: scale(0.75);
+}
+#c7:hover{
+    transform: scale(0.75);
+}
+#c8:hover{
+    transform: scale(0.75);
+}
+#c9:hover{
+    transform: scale(0.75);
+}
+#c10:hover{
+    transform: scale(0.75);
+}
+#c12:hover{
+    transform: scale(0.75);
+}
+#c13:hover{
+    transform: scale(0.75);
+}
+#c14:hover{
+    transform: scale(0.75);
+}
+#c15:hover{
+    transform: scale(0.75);
+}
+#c16:hover{
+    transform: scale(0.75);
+}
+#c17:hover{
+    transform: scale(0.75);
+}
+#c18:hover{
+    transform: scale(0.75);
+}
+#c19:hover{
+    transform: scale(0.75);
+}
+#c20:hover{
+    transform: scale(0.75);
+}
+ 
+
